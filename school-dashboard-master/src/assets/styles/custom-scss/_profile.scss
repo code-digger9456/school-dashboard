@@ -1,0 +1,64 @@
+.profile {
+    .card {
+        height: 100%;
+        border: none;
+        border-bottom: solid 2px $font-color;
+    }
+    .profile-info {
+        img {
+            width: 100%;
+        }
+        .edit-bio,
+        .edit-contacts,
+        .edit-names {
+            font-weight: bold;
+            color: $blue-font-color;
+        }
+    }
+    .profile-form {
+        input {
+            width: 100%;
+            border: none;
+            border-bottom: solid 0.05em $font-color;
+        }
+    }
+    .inbox {
+        .row,
+        .container-fluid {
+            .chats {
+                height: 100vh;
+                overflow-y: scroll;
+                border-right: solid 1px $font-color;
+                .compose {
+                    button {
+                        text-align: justify;
+                        width: 100%;
+                    }
+                }
+            }
+            .conversation {
+                height: 100vh;
+                overflow-y: scroll;
+                border-right: solid 1px $font-color;
+                .compose {
+                    button {
+                        text-align: justify;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.mail {
+    text-align: justify;
+    img {
+        height: 30px;
+        width: 30px;
+        border-radius: 30px;
+    }
+    .name {
+        font-weight: bold;
+    }
+}

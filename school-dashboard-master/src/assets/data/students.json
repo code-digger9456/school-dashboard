@@ -1,0 +1,83 @@
+[{
+        "id": "1",
+        "name": "Anshul Jain",
+        "image": "assets/images/profile-b.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    },
+    {
+        "id": "1",
+        "name": "Priyanka",
+        "image": "assets/images/profile-g.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Shreya Gupta",
+        "image": "assets/images/profile-g1.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Rahul Yadva",
+        "image": "assets/images/profile-b.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Jancy Mittal",
+        "image": "assets/images/profile-g1.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Rashika Jaiswal",
+        "image": "assets/images/profile-g.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Vinay Panday",
+        "image": "assets/images/profile-b.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Bharti Jaiswal",
+        "image": "assets/images/profile-g.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Nilu Bhatt",
+        "image": "assets/images/profile-g1.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }, {
+        "id": "1",
+        "name": "Gopal Prasad Jaiswal",
+        "image": "assets/images/profile-b.jpg",
+        "year": "1st Year",
+        "department": "School of Medicine",
+        "subject": "Neurology",
+        "attendance": "Present"
+    }
+]

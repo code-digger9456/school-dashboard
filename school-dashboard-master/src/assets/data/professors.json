@@ -1,0 +1,43 @@
+[{
+    "id": "1",
+    "name": "Simran Gupta",
+    "image": "assets/images/professor-1.jpg",
+    "age": "54",
+    "department": "School of Medicine",
+    "attendance": "Present"
+}, {
+    "id": "1",
+    "name": "Anshul Maurya",
+    "image": "assets/images/professor-1.jpg",
+    "age": "54",
+    "department": "School of Medicine",
+    "attendance": "Present"
+}, {
+    "id": "1",
+    "name": "Priynka Yadva",
+    "image": "assets/images/professor-1.jpg",
+    "age": "54",
+    "department": "School of Medicine",
+    "attendance": "Present"
+}, {
+    "id": "1",
+    "name": "Jancy Mittal",
+    "image": "assets/images/professor-1.jpg",
+    "age": "54",
+    "department": "School of Medicine",
+    "attendance": "Present"
+}, {
+    "id": "1",
+    "name": "Rashika Gupta",
+    "image": "assets/images/professor-1.jpg",
+    "age": "54",
+    "department": "School of Medicine",
+    "attendance": "Present"
+}, {
+    "id": "1",
+    "name": "Bharti Jaiswal",
+    "image": "assets/images/professor-1.jpg",
+    "age": "54",
+    "department": "School of Medicine",
+    "attendance": "Present"
+}]

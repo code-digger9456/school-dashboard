@@ -1,0 +1,15 @@
+.libraryItems {
+    .library {
+        img {
+            width: 100%;
+        }
+        .item,
+        .item-count {
+            font-style: italic;
+        }
+        .card {
+            border: none;
+            border-bottom: solid 2px $font-color;
+        }
+    }
+}

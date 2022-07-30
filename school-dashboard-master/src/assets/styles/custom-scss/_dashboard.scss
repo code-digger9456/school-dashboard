@@ -1,0 +1,110 @@
+.dashboard {
+    // .disable-scrollbars {
+    //     width: none;
+    //     /* Firefox */
+    //     -ms-overflow-style: none;
+    //     /* IE 10+ */
+    //     &::-webkit-scrollbar {
+    //         width: 0px;
+    //         background: transparent;
+    //         /* Chrome/Safari/Webkit */
+    //     }
+    // }
+    .card {
+        height: 100%;
+        border-bottom: solid 2px $font-color;
+    }
+    .departments,
+    .professors,
+    .students,
+    .workers,
+    .courses,
+    .sub-departments {
+        text-align: center;
+        .rule {
+            border-bottom: solid 2px $font-color;
+        }
+    }
+    .perfomance-bars {
+        .progress {
+            height: 0.5em;
+        }
+        .classOf2015 {
+            .progress-bar {
+                background-color: orange;
+            }
+        }
+        .classOf2016 {
+            .progress-bar {
+                background-color: rgb(83, 170, 12);
+            }
+        }
+        .classOf2017 {
+            .progress-bar {
+                background-color: rgb(48, 70, 7);
+            }
+        }
+        .classOf2018 {
+            .progress-bar {
+                background-color: rgb(54, 32, 6);
+            }
+        }
+    }
+    .chart-area {
+        width: 100%;
+        height: 40%;
+        position: relative;
+        canvas {
+            display: inline;
+        }
+    }
+    .event {
+        height: 100%;
+        img {
+            width: 50px;
+            height: 50px;
+        }
+        .participants,
+        .time,
+        .venue {
+            font-style: italic;
+            color: $blue-font-color;
+        }
+    }
+    .activity {
+        height: 100%;
+        img {
+            width: 50px;
+            height: 50px;
+        }
+        .time,
+        .deadline {
+            font-style: italic;
+            color: $blue-font-color;
+        }
+    }
+    .project {
+        height: 100%;
+        img {
+            width: 50px;
+            height: 50px;
+        }
+        .time,
+        .deadline {
+            font-style: italic;
+            color: $blue-font-color;
+        }
+    }
+    .award {
+        height: 100%;
+        img {
+            width: 50px;
+            height: 50px;
+        }
+        .time,
+        .deadline {
+            font-style: italic;
+            color: $blue-font-color;
+        }
+    }
+}

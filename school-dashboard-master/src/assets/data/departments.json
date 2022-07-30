@@ -1,0 +1,50 @@
+[{
+        "id": "1",
+        "name": "Computer Science Department",
+        "students": "300",
+        "professors": "10",
+        "courses": "12",
+        "sub_departments": "3"
+    },
+    {
+        "id": "2",
+        "name": "Electronics Deptarment",
+        "students": "500",
+        "professors": "10",
+        "courses": "20",
+        "sub_departments": "5"
+    }, {
+        "id": "3",
+        "name": "Electrical Department",
+        "students": "150",
+        "professors": "4",
+        "courses": "10",
+        "sub_departments": "5"
+    }, {
+        "id": "4",
+        "name": "Mechanical Department",
+        "students": "600",
+        "professors": "15",
+        "courses": "30",
+        "sub_departments": "6"
+    }, {
+        "id": "5",
+        "name": "English Department",
+        "students": "200",
+        "professors": "10",
+        "courses": "6",
+        "sub_departments": "4"
+    }, {
+        "id": "6",
+        "name": "Social Science Department",
+        "students": "450",
+        "professors": "20",
+        "sub_departments": "5"
+    }, {
+        "id": "6",
+        "name": "Physics Department",
+        "students": "450",
+        "professors": "20",
+        "sub_departments": "5"
+    }
+]
